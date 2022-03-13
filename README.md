@@ -51,10 +51,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.gerichts.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.gerichts.netlify.app/">website</a>
 <!-- <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a> -->
-<a href="https://www.instagram.com/_gourav224/"></a>
-<a href="gouravjoshi224@gmail.com"></a>
+<a href="https://www.instagram.com/_gourav224/">instagram</a>
+<a href="gouravjoshi224@gmail.com">email</a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/gouravjoshi139)
+⭐️ From [gouravjoshi139](https://github.com/gouravjoshi139)
