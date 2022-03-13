@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new Web technologies and developing Web solutions and quick hacks.
+- 🤔 &nbsp; Exploring new Web technologies and developing Web UI and UX and quick hacks.
 - 🎓 &nbsp; Complete my Bachelor in Computer Application from Indira Gandhi National Open University.
 - 💼 &nbsp; Working as a Freelancer develope Web UI/UX  in React.js .
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
