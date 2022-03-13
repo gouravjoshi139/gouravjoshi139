@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new Web technologies and developing Web solutions and quick hacks.
 - 🎓 &nbsp; Complete my Bachelor in Computer Application from Indira Gandhi National Open University.
-- 💼 &nbsp; Working as a Freelance Web UI/UX developer.
+- 💼 &nbsp; Working as a Freelancer develope Web UI/UX  in React.js .
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
@@ -53,8 +53,8 @@
 <p align="center">
 <a href="https://www.gerichts.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 <!-- <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a> -->
-<a href="https://www.instagram.com/_gourav224/"><img alt="Instagram" src="https://instagram.fdel1-2.fna.fbcdn.net/v/t51.2885-19/260070059_1655693878095769_9046637020415348089_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fdel1-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=tBBY3NjPiPgAX87Ivss&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8GA2roJCbjBv5tpZjj3P392lyVo7sClflNLjAsbZzqdw&oe=6233EE8A&_nc_sid=7bff83"></a>
+<a href="https://www.instagram.com/_gourav224/"></a>
 <a href="gouravjoshi224@gmail.com"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [AVS1508](https://github.com/gouravjoshi139)
