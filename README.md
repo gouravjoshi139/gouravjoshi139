@@ -41,9 +41,9 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/gouravjoshi139">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gouravjoshi139&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravjoshi139&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -59,8 +59,8 @@
 <p align="center">
 <a href="https://www.gerichts.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.gouravjoshi.com-blue?style=flat-square&logo=google-chrome"></a>
 <!-- <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a> -->
-<a href="https://www.instagram.com/_gourav224/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_gourav224-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:gouravjoshi224@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gouravjoshi224-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/_gourav224/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-__gourav224-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:gouravjoshi224@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gouravjoshi-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [gouravjoshi139](https://github.com/gouravjoshi139)
+<!-- ⭐️ From [gouravjoshi139](https://github.com/gouravjoshi139) -->
